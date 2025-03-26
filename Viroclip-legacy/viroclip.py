@@ -37,7 +37,7 @@ d = cmudict.dict()
 
 # FUNCTIONS #########################################################################################
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='...')
 
 used_links = []
 #Input: Topic to generate text on
@@ -104,7 +104,7 @@ def search_and_download_image(query, path, num=3):
             params = {
                 'q': query,
                 'cx': '8798c246b4f534e50',
-                'key': 'AIzaSyBMWrqHeJyxJkK3-Wi7CXEgjsrCzzRhP4U',
+                'key': '...',
                 'searchType': 'image',
                 'num': num
                 #'rights': '(cc_publicdomain|cc_attribute|cc_sharealike|cc_noncommercial|cc_nonderived)',
