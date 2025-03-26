@@ -1,3 +1,10 @@
+# Demo
+**Prompt: “Make a 1m video on how Kylie Jenner became the worlds youngest billionaire. Use a gray gradient motion background, captions, and popup pictures. Use a male narator.” ** 
+Result: https://youtube.com/shorts/g6KztCNRliA?feature=share
+
+**Prompt: “Make a 1m video on the origin of the paypal mafia. Include this content: https://www.youtube.com/watch?v=s9mczdODqzo, https://pngimg.com/d/paypal_PNG7.png, use transitions, a fitting background and transitions.”**
+Result: https://youtube.com/shorts/3CTCKqJuB_0?feature=share
+
 # ViroClip2 – Text-to-Video Content Generator
 
 **ViroClip2** is a Python-based tool that converts a user’s text description into an engaging short-form video. It leverages OpenAI’s GPT-4 to interpret video creation requests, scrapes the internet for relevant content, and generates a custom voice narration. The result is a video that integrates curated media, dynamic visual effects, and a tailored narration track—all driven by an extensive set of configurable parameters.
