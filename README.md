@@ -7,11 +7,11 @@ Result: https://youtube.com/shorts/g6KztCNRliA?feature=share
 
 Result: https://youtube.com/shorts/3CTCKqJuB_0?feature=share
 
+(Generated from legacy version)
+
 # ViroClip2 – Text-to-Video Content Generator
 
 **ViroClip2** is a Python-based tool that converts a user’s text description into an engaging short-form video. It leverages OpenAI’s GPT-4 to interpret video creation requests, scrapes the internet for relevant content, and generates a custom voice narration. The result is a video that integrates curated media, dynamic visual effects, and a tailored narration track—all driven by an extensive set of configurable parameters.
-
-(Generated from legacy version)
 
 ---
 
