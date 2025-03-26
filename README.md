@@ -1,5 +1,5 @@
 # Demo
-**Prompt: “Make a 1m video on how Kylie Jenner became the worlds youngest billionaire. Use a gray gradient motion background, captions, and popup pictures. Use a male narator.” **
+**Prompt: “Make a 1m video on how Kylie Jenner became the worlds youngest billionaire. Use a gray gradient motion background, captions, and popup pictures. Use a male narator.”**
 
 Result: https://youtube.com/shorts/g6KztCNRliA?feature=share 
 
