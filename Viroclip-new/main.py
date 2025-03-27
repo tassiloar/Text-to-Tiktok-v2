@@ -5,7 +5,7 @@ import format_input
 import use_googletts
 import use_moviepy
 
-# get_content_list
+# get_content_list 
 # Input: The content items and script
 # Function: Creates the final content list
 # Output: Final content list
